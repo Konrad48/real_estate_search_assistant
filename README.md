@@ -7,6 +7,7 @@ scraping a list fetches matching offers from Otodom, OLX, Adresowo, Sprzedajemy,
 Gratka — filtered at the source website where possible — into a local SQLite database.
 Re-scraping a list updates it in place and **keeps price history** so you can see how
 offer prices change over time. The UI is in Polish.
+<img width="1890" height="907" alt="image" src="https://github.com/user-attachments/assets/dab53709-9304-4f68-9fac-7dc76396a9d2" />
 
 ## Getting started
 
